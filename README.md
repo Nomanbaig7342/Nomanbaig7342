@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi I'm Noman Baig
 🔭 I’m currently working on building projects in web development and exploring new technologies<br>👯 looking to collaborate on open-source projects and innovative tech ideas<br>🤝 seeking help with improving my skills in cloud computing and large-scale application design<br>🌱 currently learning AWS, Next.js, and advanced JavaScript concepts<br>💬 happy to answer questions about web development, problem-solving, and tech trends<br>⚡ a fun fact is that I enjoy turning complex challenges into simple, creative solutions.
 
 
